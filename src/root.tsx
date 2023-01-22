@@ -10,6 +10,14 @@ import { DarkThemeLauncher } from "~/components/core/DarkThemeLauncher";
 
 import globalStyles from "~/assets/styles/global.css?inline";
 
+
+/**ADDEEED BY ME  ***/
+import { QwikPartytown } from './components/partytown/partytown';
+
+/**ADDEEED BY ME  ***/
+
+
+
 export default component$(() => {
   /**
    * The root of a QwikCity site always start with the <QwikCityProvider> component,
@@ -30,6 +38,15 @@ export default component$(() => {
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
           rel="stylesheet"
         />
+
+<QwikPartytown forward={['dataLayer.push']} />
+        <script
+          async
+          type="text/partytown"
+          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"
+        />
+
+        
         <RouterHead />
         <DarkThemeLauncher />
       </head>
