@@ -1636,10 +1636,10 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-plugin-qwik@0.16.2:
-  version "0.16.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-qwik/-/eslint-plugin-qwik-0.16.2.tgz#ee8b69e28cd4d4f1e53e9342645d0fed68a3f360"
-  integrity sha512-Jn4J8fPr7x6ghz8eAwcDpfDkOcLdZ6rN7ZEuhQc/A+gSwGnMaDbpI3/+OIEiPeXU7GElzeUPAGyiNQtFYNJCoQ==
+eslint-plugin-qwik@0.21.0:
+  version "0.21.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-qwik/-/eslint-plugin-qwik-0.21.0.tgz#892c2fda534ce4980819e0fa2d5094255e6b5f96"
+  integrity sha512-hT+n+PG3PHTKieQUcn3jGwWsxdqXL45pYFLKN2wvqyaesKMDEYQl4l82xAUTn9pAoJMSoF0rHsutOC6pUrplhg==
 
 eslint-scope@^5.1.1:
   version "5.1.1"
