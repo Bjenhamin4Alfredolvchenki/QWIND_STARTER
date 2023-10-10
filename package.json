@@ -24,7 +24,7 @@
   "devDependencies": {
     "@builder.io/partytown": "^0.7.0",
     "@builder.io/qwik": "0.16.2",
-    "@builder.io/qwik-city": "0.0.128",
+    "@builder.io/qwik-city": "0.104.0",
     "@fontsource/inter": "^4.5.14",
     "@iconify-json/tabler": "^1.1.54",
     "@tailwindcss/typography": "^0.5.8",
