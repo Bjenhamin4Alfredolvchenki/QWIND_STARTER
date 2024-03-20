@@ -28,7 +28,7 @@
     "@fontsource/inter": "^4.5.14",
     "@iconify-json/tabler": "^1.1.54",
     "@tailwindcss/typography": "^0.5.8",
-    "@types/eslint": "8.4.10",
+    "@types/eslint": "8.56.6",
     "@types/markdown-it": "^12.2.3",
     "@types/node": "^18.11.18",
     "@typescript-eslint/eslint-plugin": "5.48.2",
